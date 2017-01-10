@@ -4,7 +4,7 @@
 ----|----|----
 [AJudge](https://github.com/AJudge-team/Ajudge)|알고리즘 저지(Judge) 프로그램|MIT
 [AR-Trace](https://github.com/siosio34/AR-Trace)|AR 네비게이션 SNS|GPL-3.0
-[ChosunTruck](https://github.com/bethesirius/ChosunTruck/graphs/contributors)|자유주행 솔루션|GPL-3.0
+[ChosunTruck](https://github.com/bethesirius/ChosunTruck)|자유주행 솔루션|GPL-3.0
 [circleround](https://github.com/huujee/circleround)|오프라인 화면 공유|GPL-3.0
 [coding-night-live](https://github.com/punkyoon/coding-night-live)|Web-based Communication App|MIT
 [crafty](https://github.com/PJunhyuk/crafty)|함수형 언어 비쥬얼 프로그래밍 툴|MIT
