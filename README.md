@@ -14,7 +14,7 @@
 [LighthouseClassBrowser](https://github.com/Red-Portal/LighthouseClassBrowser)|IDE 코드 분석 플러그인|-
 [pyreportcard](https://github.com/mingrammer/pyreportcard)|파이썬 오픈소스 코드 및 프로젝트 분석|MIT
 [Sherlock](https://github.com/mjkim610/sherlock)|인증 시스템|MIT
-[Sherlock.py](https://github.com/Luavis/sherlock)|batch 파일생성 trans compiler|MIT
+[Sherlock.py](https://github.com/Luavis/sherlock.py)|batch 파일생성 trans compiler|MIT
 [tracer](https://github.com/sn0wle0pard/tracer)|python 알고리즘 시각화 라이브러리|MIT
 [weblockly](https://github.com/lawrence-kaybob/weblockly)|Scratch project in web browser |GPL-3.0
 
