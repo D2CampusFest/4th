@@ -1,4 +1,4 @@
-## FEST 2016 결승진출팀 목록 - 축하합니다!!
+## FEST 2016 결승진출팀
 
 프로젝트 명| 설명 | 라이선스
 ----|----|----
@@ -11,7 +11,7 @@
 [gimci](https://github.com/gimci/gimci)|자연어처리|-
 [girok](https://github.com/seokju-na/girok.git)|문서의 분산 버전 관리 시스템|MIT
 [Kokoto](https://github.com/hatamake/kokoto)|협업을 위한 웹 서비스|MIT
-[LighthouseClassBrowser](https://github.com/Red-Portal/LighthouseClassBrowser)|IDE 코드 분석 플러그인|-
+[LighthouseClassBrowser](https://github.com/Red-Portal/LighthouseClassBrowser)|IDE 코드 분석 플러그인|GPL-3.0
 [pyreportcard](https://github.com/mingrammer/pyreportcard)|파이썬 오픈소스 코드 및 프로젝트 분석|MIT
 [Sherlock](https://github.com/mjkim610/sherlock)|인증 시스템|MIT
 [Sherlock.py](https://github.com/Luavis/sherlock.py)|batch 파일생성 trans compiler|MIT
