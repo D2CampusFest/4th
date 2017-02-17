@@ -14,7 +14,7 @@
 * 라이선스 : MIT
 * 저장소 : https://github.com/punkyoon/coding-night-live
 
-## FEST 2016 결승진출팀
+# FEST 2016 결승진출팀
 
 프로젝트 명| 설명 | 라이선스
 ----|----|----
@@ -30,28 +30,3 @@
 [Sherlock.py](https://github.com/Luavis/sherlock.py)|batch 파일생성 trans compiler|MIT
 [tracer](https://github.com/sn0wle0pard/tracer)|python 알고리즘 시각화 라이브러리|MIT
 [weblockly](https://github.com/lawrence-kaybob/weblockly)|Scratch project in web browser |GPL-3.0
-
-## 오리엔테이션 안내
-
-```
-* 일시 : 1월 13일 (금) 오전 11시-오후 6시
-* 장소 : D2 Startup Factory, 강남역 메리츠타워 16층
-
-※ 상세내용은 전달드린 메일을 참고해주시기 바랍니다.
-```
-
-## 밋업일정  안내
-```
-* 밋업 1 : 2월 1일 (수) 오후 1시-7시
-* 밋업 2 : 2월 8일 (수) 오후 1시-7시
-
-※ 장소 : D2 Startup Factory, 강남역 메리츠타워 16층
-```
-
-## 결승전 안내
-```
-* 일시 : 2월 17일 (금)
-* 장소 : 정자동 네이버 그린팩토리 
-```
-
-* 문의 : naver_d2@naver.com
