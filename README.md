@@ -1,16 +1,29 @@
+# 결승전 수상작
+##ChosunTruck / 최우수상 
+* 자유주행 솔루션
+* 라이선스 : GPL-3
+* 저장소 : https://github.com/bethesirius/ChosunTruck
+
+##Kokoto / 
+* 협업을 위한 웹 서비스 
+* 라이선스 : MIT
+* 저장소 : https://github.com/hatamake/kokoto
+
+##coding-night-live
+* Web-based Communication App
+* 라이선스 : MIT
+* 저장소 : https://github.com/punkyoon/coding-night-live
+
 ## FEST 2016 결승진출팀
 
 프로젝트 명| 설명 | 라이선스
 ----|----|----
 [AJudge](https://github.com/AJudge-team/Ajudge)|알고리즘 저지(Judge) 프로그램|MIT
 [AR-Trace](https://github.com/siosio34/AR-Trace)|AR 네비게이션 SNS|GPL-3.0
-[ChosunTruck](https://github.com/bethesirius/ChosunTruck)|자유주행 솔루션|GPL-3.0
 [circleround](https://github.com/huujee/circleround)|오프라인 화면 공유|GPL-3.0
-[coding-night-live](https://github.com/punkyoon/coding-night-live)|Web-based Communication App|MIT
 [crafty](https://github.com/PJunhyuk/crafty)|함수형 언어 비쥬얼 프로그래밍 툴|MIT
 [gimci](https://github.com/gimci/gimci)|자연어처리|-
 [girok](https://github.com/seokju-na/girok.git)|문서의 분산 버전 관리 시스템|MIT
-[Kokoto](https://github.com/hatamake/kokoto)|협업을 위한 웹 서비스|MIT
 [LighthouseClassBrowser](https://github.com/Red-Portal/LighthouseClassBrowser)|IDE 코드 분석 플러그인|GPL-3.0
 [pyreportcard](https://github.com/mingrammer/pyreportcard)|파이썬 오픈소스 코드 및 프로젝트 분석|MIT
 [sherlock](https://github.com/mjkim610/sherlock)|인증 시스템|BSD-3-Clause
