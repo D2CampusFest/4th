@@ -4,12 +4,12 @@
 * 라이선스 : GPL-3
 * 저장소 : https://github.com/bethesirius/ChosunTruck
 
-##Kokoto / 
+##Kokoto / 우수상 
 * 협업을 위한 웹 서비스 
 * 라이선스 : MIT
 * 저장소 : https://github.com/hatamake/kokoto
 
-##coding-night-live
+##coding-night-live / 장려상
 * Web-based Communication App
 * 라이선스 : MIT
 * 저장소 : https://github.com/punkyoon/coding-night-live
