@@ -1,20 +1,20 @@
 # 결승전 수상작
 ## ChosunTruck / 최우수상 
 <img src="https://cloud.githubusercontent.com/assets/1983469/23346162/00fd1ce8-fcdb-11e6-9d5b-eaeb88bd766a.png" height="70px">
-* 자유주행 솔루션
-* 라이선스 : GPL-3
+* 자유주행 솔루션<br/>
+* 라이선스 : GPL-3<br/>
 * 저장소 : https://github.com/bethesirius/ChosunTruck
 
 ## Kokoto / 우수상
 <img src="https://cloud.githubusercontent.com/assets/1983469/23346158/fce13d38-fcda-11e6-9ad7-08f66c5a4ea5.png" height="70px">
-* 협업을 위한 웹 서비스 
-* 라이선스 : MIT
+* 협업을 위한 웹 서비스 <br/>
+* 라이선스 : MIT<br/>
 * 저장소 : https://github.com/hatamake/kokoto
 
 ## coding-night-live / 장려상
 <img src="https://cloud.githubusercontent.com/assets/1983469/23346160/fee68fca-fcda-11e6-941d-0524adc2a909.png" height="70px">
-* Web-based Communication App
-* 라이선스 : MIT
+* Web-based Communication App<br/>
+* 라이선스 : MIT<br/>
 * 저장소 : https://github.com/punkyoon/coding-night-live
 
 # FEST 2016 결승진출팀
