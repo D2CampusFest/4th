@@ -1,3 +1,23 @@
+# Beyond FEST 상
+(공동수상-알파벳순)
+
+## ChosunTruck
+<img src="https://cloud.githubusercontent.com/assets/1983469/23346162/00fd1ce8-fcdb-11e6-9d5b-eaeb88bd766a.png" height="70px">
+* 자유주행 솔루션<br/>
+* 라이선스 : GPL-3<br/>
+* 저장소 : https://github.com/bethesirius/ChosunTruck
+
+## coding-night-live
+<img src="https://cloud.githubusercontent.com/assets/1983469/23346160/fee68fca-fcda-11e6-941d-0524adc2a909.png" height="70px">
+* Web-based Communication App<br/>
+* 라이선스 : MIT<br/>
+* 저장소 : https://github.com/punkyoon/coding-night-live
+
+## Tracer
+* python 알고리즘 시각화 라이브러리
+* 라이선스 : MIT<br/>
+* 저장소 : https://github.com/sn0wle0pard/tracer
+
 # 결승전 수상작
 ## ChosunTruck / 최우수상 
 <img src="https://cloud.githubusercontent.com/assets/1983469/23346162/00fd1ce8-fcdb-11e6-9d5b-eaeb88bd766a.png" height="70px">
@@ -31,5 +51,4 @@
 [pyreportcard](https://github.com/mingrammer/pyreportcard)|파이썬 오픈소스 코드 및 프로젝트 분석|MIT
 [sherlock](https://github.com/mjkim610/sherlock)|인증 시스템|BSD-3-Clause
 [Sherlock.py](https://github.com/Luavis/sherlock.py)|batch 파일생성 trans compiler|MIT
-[tracer](https://github.com/sn0wle0pard/tracer)|python 알고리즘 시각화 라이브러리|MIT
 [weblockly](https://github.com/lawrence-kaybob/weblockly)|Scratch project in web browser |GPL-3.0
