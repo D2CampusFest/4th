@@ -13,10 +13,10 @@
 * 라이선스 : MIT<br/>
 * 저장소 : https://github.com/punkyoon/coding-night-live
 
-## Tracer
-* python 알고리즘 시각화 라이브러리
-* 라이선스 : MIT<br/>
-* 저장소 : https://github.com/sn0wle0pard/tracer
+## ipytracer
+* IPython/Jupyter Notebook 알고리즘 시각화 라이브러리
+* 라이선스 : BSD<br/>
+* 저장소 : https://github.com/sn0wle0pard/ipytracer
 
 # 결승전 수상작
 ## ChosunTruck / 최우수상 
